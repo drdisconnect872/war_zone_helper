@@ -1,4 +1,7 @@
-# war_zone_helper# Warzone-Project
+# war_zone_helper
+
+``Detected``
+
 Kernel Warzone Cheat. Includes ESP, Aimbot, Bone ESP, and Menu
 
 (Code isn't the cleanest)
